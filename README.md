@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Luke!
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning how to program with Unity.
